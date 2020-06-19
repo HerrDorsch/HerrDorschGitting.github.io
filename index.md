@@ -11,3 +11,5 @@ He is splendid. He is gorgeous. He is crazy. He is counting. He loves numbers. H
 - loves zeros
 - can add
 - can substract
+
+> „I count only for my pure joy!“ — Graf Zahl
